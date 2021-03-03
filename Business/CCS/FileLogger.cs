@@ -11,5 +11,5 @@ namespace Business.CCS
             Console.WriteLine("Dosyaya loglandı");
         }
     }
-}
 
+}
